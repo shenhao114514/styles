@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="en-US" default-locale-sort="zh-CN">
   <info>
     <title>西北农林科技大学本科2026</title>
     <title-short>西北农林科技大学本科2026</title-short>
@@ -665,7 +665,7 @@
     </sort>
     <layout prefix="(" suffix=")" delimiter="; " locale="zh-CN">
       <group delimiter=": ">
-        <group delimiter=" ">
+        <group delimiter="，">
           <text macro="author-intext-zh"/>
           <text macro="date-intext"/>
         </group>
@@ -674,7 +674,7 @@
     </layout>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=": ">
-        <group delimiter=" ">
+        <group delimiter="，">
           <text macro="author-intext-en"/>
           <text macro="date-intext"/>
         </group>
