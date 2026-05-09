@@ -8,23 +8,23 @@
 
 ### 引注
 
-(汪学军 2005)<br>
-(Wang 2022)<br>
-(扬奎斯特和萨金特 2010)<br>
-(Jenkins and Ruostekoski 2012)<br>
-(肖玲等 2024)<br>
-(Praetzellis 2011)<br>
-(于潇等 2012)<br>
-(Veen et al. 2014)<br>
+(汪学军，2005)<br>
+(Wang，2022)<br>
+(扬奎斯特和萨金特，2010)<br>
+(Jenkins and Ruostekoski，2012)<br>
+(肖玲等，2024)<br>
+(Praetzellis，2011)<br>
+(于潇等，2012)<br>
+(Veen et al.，2014)<br>
 
 
 ### 参考文献表
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518~1523</div>
-  <div class="csl-entry">扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 第二版. 杨斌, 王忠玉, 陈彦斌, 等译. 北京: 中国人民大学出版社: 798</div>
   <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]. 见: 国家环境保护总局生物安全管理办公室 (主编). 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22~25</div>
   <div class="csl-entry">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[Z]. PSSXiv</div>
+  <div class="csl-entry">扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 第二版. 杨斌, 王忠玉, 陈彦斌, 等译. 北京: 中国人民大学出版社: 798</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518~1523</div>
   <div class="csl-entry">Jenkins S D, J Ruostekoski. 2012. Controlled manipulation of light by cooperative response of atoms in an optical lattice[Z]. arXiv</div>
   <div class="csl-entry">Praetzellis A. 2011. Death by theory: a tale of mystery and archaeological theory[M/OL]. Rev. ed. Rowman &#38; Littlefield Publishing Group, Inc.: 13</div>
   <div class="csl-entry">Veen P H van der, M Muller, K L Vincken, et al. 2014. Longitudinal changes in brain volumes and cerebrovascular lesions on MRI in patients with manifest arterial disease: the SMART-MR study[J/OL]. <i>Journal of the Neurological Sciences</i>, 337(1/2): 112~118</div>
@@ -35,31 +35,31 @@
 
 ### 引注
 
-(张三 2008: 42)<br>
+(张三，2008: 42)<br>
 张三 (2008: 42)<br>
-(Jason 2008: 42)<br>
+(Jason，2008: 42)<br>
 Jason (2008: 42)<br>
 张三和李四 (2008)<br>
 Wang and Sun (2009)<br>
-(Wolchik and West 2009; 赵一和陈二 2008)<br>
+(赵一和陈二，2008; Wolchik and West，2009)<br>
 张三等 (2008)<br>
 Wang et al. (2009)<br>
-(Wolchik et al. 2009; 赵一等 2008)<br>
+(赵一等，2008; Wolchik et al.，2009)<br>
 张三等 (2019a)<br>
 张三等 (2019b)<br>
 Qian et al. (2020a)<br>
 Qian et al. (2020b)<br>
-(Qian et al. 2020a; 张三等 2019a)<br>
+(张三等，2019a; Qian et al.，2020a)<br>
 张三等 (2020a)<br>
 张三等 (2020b)<br>
 Qian et al. (2009a)<br>
 Qian et al. (2009b)<br>
-(张三等 2020a)<br>
-(Qian et al. 2009a)<br>
-(Wong 2007)<br>
-(Wong 2008)<br>
+(张三等，2020a)<br>
+(Qian et al.，2009a)<br>
+(Wong，2007)<br>
+(Wong，2008)<br>
 (Edeline and Weinberger, 2005, 2002a, 2002b)<br>
-(Bai 2002; Chen 2006; Deng and Feng 2005)<br>
+(Bai，2002; Chen，2006; Deng and Feng，2005)<br>
 
 
 ### GB/T 7714—2025 示例文献
@@ -67,93 +67,95 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[Z]. 姜海伦译. 见: 《环球科学》杂志社 (主编). 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15~18</div>
+  <div class="csl-entry">北京鲁迅博物馆. 2021. 北京鲁迅博物馆志愿服务章程[EB/OL]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-05-02]</div>
+  <div class="csl-entry">博伯尔. 2023. 银行业的未来与人工智能[M]. 徐超译. 北京: 清华大学出版社: 35</div>
+  <div class="csl-entry">曹凌. 2011. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社: 19</div>
+  <div class="csl-entry">陈登原. 2000. 国史旧闻[M]: 卷 1. 北京: 中华书局: 29</div>
+  <div class="csl-entry">陈建军. 2010. 从数字地球到智慧地球[J/OL]. 国土资源导刊, 7(10): 93</div>
+  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等. 1980. 蓟县震旦亚界的研究[Z]. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
+  <div class="csl-entry">陈缮真. 2022-08-16. 探索微观世界的无穷奥秘（科技大观）[N/OL]. 人民日报, 17</div>
+  <div class="csl-entry">陈志勇. 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社</div>
+  <div class="csl-entry">程根伟. 1999. 1998年长江洪水的成因与减灾对策[Z]. 见: 许厚泽, 赵其国 (主编). 长江流域洪涝灾害与科技对策. 北京: 科学出版社: 32~36</div>
+  <div class="csl-entry">邓一刚. 2008-01-16. 全智能节电器[P]. 中国发明专利, CN101106276A</div>
   <div class="csl-entry">丁文详. 2000-11-20. 数字革命与竞争国际化[N]. 中国青年报, 15</div>
-  <div class="csl-entry">中华医学会湖北分会. 1984. 临床内科杂志[Z]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会</div>
-  <div class="csl-entry">中国互联网络信息中心. 2012. 第29次中国互联网络发展状况统计报告[R/OL]</div>
-  <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 2023. 电信业发展白皮书：2023：新时代高质量发展探索[R/OL]</div>
-  <div class="csl-entry">中国图书馆学会. 1957/1990. 图书馆学通讯[Z]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆</div>
-  <div class="csl-entry">中国社会科学院台湾史研究中心. 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社</div>
-  <div class="csl-entry">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> [2025-03-06]</div>
-  <div class="csl-entry">中国造纸学会. 2003. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社</div>
-  <div class="csl-entry">中工武大设计研究有限公司. 2019. 阳新县标准地名图[CM]. 武汉: 武汉大学出版社</div>
-  <div class="csl-entry">久保智康. 2009. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物(1): 85~92</div>
-  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518~1523</div>
-  <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 2009. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社</div>
-  <div class="csl-entry">井丽南. 2022. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京: 中国科学院大学: 43</div>
-  <div class="csl-entry">仉尚航. 2024. 开放世界中的实体基础模型[EB/OL]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> [2025-01-02]</div>
+  <div class="csl-entry">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[Z]. ChinaXiv</div>
+  <div class="csl-entry">冯友兰. 2008. 冯友兰自选集[M]. 第二版. 北京: 首都师范大学出版社: 第1版自序</div>
+  <div class="csl-entry">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> [2025-06-21]</div>
+  <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集[Z]: GB 18030—2022</div>
+  <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社</div>
+  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]</div>
+  <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范[Z]: NB/T 10386—2020</div>
+  <div class="csl-entry">哈里森, 沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛译. 北京: 中国人民大学出版社: 235~236</div>
   <div class="csl-entry">何筱梅. 2016. 新媒体时代原生广告的策略与发展研究[D/OL]. 武汉: 武汉大学: 24~25</div>
+  <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社</div>
+  <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆</div>
+  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a> [2025-07-10]</div>
+  <div class="csl-entry">冀超. 2001-10-24. 一种荒漠化地区生态植被综合培育种植方法[P]. 中国发明专利, CN1318281A</div>
+  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 见: 中国图书馆学会 (主编). 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社: 45~52</div>
+  <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究[D/OL]. 温州: 温州大学: 16</div>
+  <div class="csl-entry">井丽南. 2022. 支持状态可编程的SDN交换机关键技术研究[D/OL]. 北京: 中国科学院大学: 43</div>
+  <div class="csl-entry">久保智康. 2009. 花枝蝶鸟方镜的镜范：以平安后期的铜镜制作工艺为中心[J]. 东方博物(1): 85~92</div>
+  <div class="csl-entry">李鸿章. 1887. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事[Z]: 04-01-35-0399-039. 北京: 中国第一历史档案馆</div>
+  <div class="csl-entry">李华, 王昊, 康佐. 2023-01-03. 一种拼接式桥梁模型[P]. 中国发明专利, CN218214474U</div>
+  <div class="csl-entry">李妍, 王莹. 2022. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 2</div>
+  <div class="csl-entry">李幼平, 王莉. 2010. 循证医学研究方法：附视频[J/OL]. 中华移植杂志（电子版）, 4(3): 225~228</div>
+  <div class="csl-entry">李约瑟. 1991. 题词[Z]. 见: 苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社: 扉页</div>
+  <div class="csl-entry">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006-2011[DS/OL]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a> [2024-11-25]</div>
+  <div class="csl-entry">刘祥沈. 2016. 沈阳市政区图[CM]. 武汉: 武汉大学出版社</div>
+  <div class="csl-entry">楼梦麟, 杨燕. 2011. 汶川地震基岩地震动特征分析[Z]. 见: 同济大学土木工程防灾国家重点实验室 (主编). 汶川地震震害研究. 上海: 同济大学出版社: 11~12</div>
+  <div class="csl-entry">马克思. 2013. 政治经济学批判[Z]. 见: 马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 第二版. 北京: 人民出版社: 302</div>
+  <div class="csl-entry">牛永敢, 孔晓, 王阳, 等. 2019. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社: 65~66</div>
+  <div class="csl-entry">牛志明, Swingland I R, 雷光春. 2012. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社</div>
+  <div class="csl-entry">彭守璋. 2024. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25]</div>
+  <div class="csl-entry">钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社: 序2-3</div>
+  <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[Z]: GB/T 20090.16—2016</div>
+  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[Z]: GB/T 3792—2021</div>
+  <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等. 2002-03-06. 光折变自适应光外差探测方法[P]. 中国发明专利, CN1338652A</div>
+  <div class="csl-entry">谭其骧. 1982. 中国历史地图集[CM]: 第2册. 北京: 地图出版社: 6</div>
+  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 2013. 人体安全重要技术标准研制最终报告[R/OL]: 7178999X-2006BAK04A10/10.2013</div>
+  <div class="csl-entry">童世亨. 1926. 京兆直隶图[CM]. 上海: 商务印书馆</div>
+  <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]. 见: 国家环境保护总局生物安全管理办公室 (主编). 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22~25</div>
+  <div class="csl-entry">王夫之. 1865. 宋论[M]. 刻本. 金陵: 湘乡曾国荃</div>
+  <div class="csl-entry">王继民, 罗鹏程, 赵常煜, 等. 2025. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-07-10]</div>
+  <div class="csl-entry">王利平, 王福新, 刘洪. 2024. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 45(增刊1): 730570</div>
+  <div class="csl-entry">王琦. 2022. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉: 武汉大学: 87</div>
+  <div class="csl-entry">吴自银, 温珍河. 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社</div>
+  <div class="csl-entry">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[Z]. PSSXiv</div>
+  <div class="csl-entry">肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献[C]. 见: 纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134~147</div>
+  <div class="csl-entry">徐建委. 2025. 历史的起点：《史记》中的时间设置及其意义[J/OL]. 北京大学学报（哲学社会科学版）, 62(2): 117~127</div>
+  <div class="csl-entry">许振超. 2025. “好好干，当一个好工人”[EB/OL]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-06-22]</div>
+  <div class="csl-entry">扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 第二版. 杨斌, 王忠玉, 陈彦斌, 等译. 北京: 中国人民大学出版社: 798</div>
+  <div class="csl-entry">杨洪升. 2013. 四库馆私家抄校书考略[J]. 文献(1): 56~75</div>
+  <div class="csl-entry">杨立华. 2022. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]</div>
   <div class="csl-entry">佚名. 1949. 中国人民解放军武汉市军事管制委员会接管国立武汉大学的文告[Z]. 武汉: 武汉大学档案馆</div>
   <div class="csl-entry">佚名. 1962. 康熙字典[M]: 巳集上 水部. 同文书局影印本. 北京: 中华书局: 50</div>
   <div class="csl-entry">佚名. 2011. 周易外传：卷5[Z]. 见: 王夫之 (主编). 船山全书: 第1册. 修订版. 长沙: 岳麓书社: 983~1029</div>
   <div class="csl-entry">佚名. 2020. 大黄[Z]. 见: 国家药典委员会 (主编). 中华人民共和国药典: 一部. 2020版. 北京: 中国医药科技出版社: 24~25</div>
   <div class="csl-entry">佚名. 2023a. [《昨日之歌》图书封面][Z]</div>
   <div class="csl-entry">佚名. 2023b. 西黄丸[EB/OL]. <a href="https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154">https://ydz.chp.org.cn/#/item?bookId=1&#38;entryId=1154</a> [2025-08-26]</div>
-  <div class="csl-entry">全国信息与文献标准化技术委员会. 2021. 信息与文献 资源描述[Z]: GB/T 3792—2021</div>
-  <div class="csl-entry">全国信息技术标准化技术委员会. 2016. 信息技术 先进音视频编码 第16部分：广播电视视频[Z]: GB/T 20090.16—2016</div>
-  <div class="csl-entry">冀超. 2001-10-24. 一种荒漠化地区生态植被综合培育种植方法[P]. 中国发明专利, CN1318281A</div>
-  <div class="csl-entry">冯友兰. 2008. 冯友兰自选集[M]. 第二版. 北京: 首都师范大学出版社: 第1版自序</div>
-  <div class="csl-entry">刘时银, 郭万钦, 许君利. 2012. 中国第二次水川编目科学数据：2006-2011[DS/OL]. 中国科学院寒区早区环境与工程研究所冰冻圈科学国家重点实验室. <a href="https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/">https://data.tpdc.ac.cn/zh-hans/data/f92a4346-a33f-497d-9470-2b357ccb4246/</a> [2024-11-25]</div>
-  <div class="csl-entry">刘祥沈. 2016. 沈阳市政区图[CM]. 武汉: 武汉大学出版社</div>
-  <div class="csl-entry">北京鲁迅博物馆. 2021. 北京鲁迅博物馆志愿服务章程[EB/OL]. <a href="http://www.luxunmuseum.com.cn/html/202104/a11310.htm">http://www.luxunmuseum.com.cn/html/202104/a11310.htm</a> [2023-05-02]</div>
-  <div class="csl-entry">博伯尔. 2023. 银行业的未来与人工智能[M]. 徐超译. 北京: 清华大学出版社: 35</div>
-  <div class="csl-entry">吴自银, 温珍河. 2019. 中国南部海域海底地形图[CM]. 北京: 科学出版社</div>
-  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等. 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-07-15]</div>
-  <div class="csl-entry">哈里森, 沃尔德伦. 2012. 经济数学与金融数学[M]. 谢远涛译. 北京: 中国人民大学出版社: 235~236</div>
-  <div class="csl-entry">国家测绘地理信息局. 一带一路经济走廊及其途经城市分布地势图[CM]</div>
-  <div class="csl-entry">国家能源局. 2020. 水电工程水温实时监测系统技术规范[Z]: NB/T 10386—2020</div>
-  <div class="csl-entry">工业和信息化部. 2022. 信息技术  中文编码字符集[Z]: GB 18030—2022</div>
+  <div class="csl-entry">于潇, 刘义, 柴跃廷, 等. 2012. 互联网药品可信交易环境中主体资质审核备案模式[J]. 清华大学学报（自然科学版）, 52(11): 1518~1523</div>
+  <div class="csl-entry">云南省企业联合会, 云南省企业家协会, 云南民族新闻文化发展研究院. 2009. 改革开放三十年：云南企业家奋斗史[M]. 芒市: 德宏民族出版社</div>
+  <div class="csl-entry">战德臣, 张丽杰. 2019. 大学计算机：计算思维与信息素养[M]. 第三版. 北京: 高等教育出版社</div>
   <div class="csl-entry">张伯伟. 2002. 全唐五代诗格汇考[M]. 南京: 江苏古籍出版社: 288</div>
   <div class="csl-entry">张凯军, 赵永杰, 陈朝岗. 2013-03-27. 轨道火车及高速轨道火车紧急安全制动辅助装置[P]. 中国发明专利, CN202827616U</div>
   <div class="csl-entry">张群, 程志宝, 石志飞. 2024a. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J/OL]. 铁道学报</div>
   <div class="csl-entry">张群, 程志宝, 石志飞. 2024b. 惯性增强动力吸振器-浮置板轨道低频减振性能研究[J]. 铁道学报, 46(8): 102~111</div>
-  <div class="csl-entry">彭守璋. 2024. 1901—2023年中国1km分辨率逐月降水量数据集[DS/OL]. 西北农林科技大学水土保持研究所. <a href="https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science">https://www.geodata.cn/main/face_science_detail?guid=192891852410344&#38;typeName=face_science</a> [2024-11-25]</div>
-  <div class="csl-entry">徐建委. 2025. 历史的起点：《史记》中的时间设置及其意义[J/OL]. 北京大学学报（哲学社会科学版）, 62(2): 117~127</div>
-  <div class="csl-entry">战德臣, 张丽杰. 2019. 大学计算机：计算思维与信息素养[M]. 第三版. 北京: 高等教育出版社</div>
-  <div class="csl-entry">扬奎斯特, 萨金特. 2010. 递归宏观经济理论[M]. 第二版. 杨斌, 王忠玉, 陈彦斌, 等译. 北京: 中国人民大学出版社: 798</div>
-  <div class="csl-entry">方向明, 曹迎杰. 2023. 元宇宙在图书馆的应用：理论研究与实践进展[Z]. ChinaXiv</div>
-  <div class="csl-entry">曹凌. 2011. 中国佛教疑伪经综录[M]. 上海: 上海古籍出版社: 19</div>
-  <div class="csl-entry">李华, 王昊, 康佐. 2023-01-03. 一种拼接式桥梁模型[P]. 中国发明专利, CN218214474U</div>
-  <div class="csl-entry">李妍, 王莹. 2022. 医疗机构保洁人员“一前五后”手卫生干预效果研究[C]. 2</div>
-  <div class="csl-entry">李幼平, 王莉. 2010. 循证医学研究方法：附视频[J/OL]. 中华移植杂志（电子版）, 4(3): 225~228</div>
-  <div class="csl-entry">李约瑟. 1991. 题词[Z]. 见: 苏克福, 管成学, 邓明鲁. 苏颂与《本草图经》研究. 长春: 长春出版社: 扉页</div>
-  <div class="csl-entry">李鸿章. 1887. 奏请上海道库洋务外销要款无款可筹仍拨药厘接济事[Z]: 04-01-35-0399-039. 北京: 中国第一历史档案馆</div>
-  <div class="csl-entry">杨洪升. 2013. 四库馆私家抄校书考略[J]. 文献(1): 56~75</div>
-  <div class="csl-entry">杨立华. 2022. 《庄子》读不懂？看完这一篇“导读”就明白了[Z]</div>
-  <div class="csl-entry">楼梦麟, 杨燕. 2011. 汶川地震基岩地震动特征分析[Z]. 见: 同济大学土木工程防灾国家重点实验室 (主编). 汶川地震震害研究. 上海: 同济大学出版社: 11~12</div>
-  <div class="csl-entry">汤万金, 杨跃翔, 刘文, 等. 2013. 人体安全重要技术标准研制最终报告[R/OL]: 7178999X-2006BAK04A10/10.2013</div>
-  <div class="csl-entry">汪学军. 2005. 中国农业转基因生物研发进展与安全管理[C]. 见: 国家环境保护总局生物安全管理办公室 (主编). 中国国家生物安全框架实施国际合作项目研讨会论文集. 北京: 中国环境科学出版社: 22~25</div>
-  <div class="csl-entry">湖北省建设厅. 1931. 湖北省建设厅关于检发实业部农工矿业团体登记规则的布告、训令及湖北省政府的训令[Z]. 武汉: 湖北省档案馆</div>
-  <div class="csl-entry">牛志明, Swingland I R, 雷光春. 2012. 综合湿地管理：综合湿地管理国际研讨会论文集[M]. 北京: 海洋出版社</div>
-  <div class="csl-entry">牛永敢, 孔晓, 王阳, 等. 2019. 鼻整形应用解剖学[M]. 北京: 人民卫生出版社: 65~66</div>
-  <div class="csl-entry">王利平, 王福新, 刘洪. 2024. 过冷大水滴环境粒径分布模拟方法研究进展[J]. 航空学报, 45(增刊1): 730570</div>
-  <div class="csl-entry">王夫之. 1865. 宋论[M]. 刻本. 金陵: 湘乡曾国荃</div>
-  <div class="csl-entry">王琦. 2022. 融合星载GNSS-R和SAR数据的高时空分辨率土壤湿度反演方法研究[D]. 武汉: 武汉大学: 87</div>
-  <div class="csl-entry">王继民, 罗鹏程, 赵常煜, 等. 2025. 人文社会科学数据集检索方法研究的数据集[DS/OL]. 北京大学开放研究数据平台. <a href="http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN">http://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi:10.18170/DVN/R96MSN</a> [2025-07-10]</div>
-  <div class="csl-entry">石顺祥, 许海平, 孙艳玲, 等. 2002-03-06. 光折变自适应光外差探测方法[P]. 中国发明专利, CN1338652A</div>
-  <div class="csl-entry">程根伟. 1999. 1998年长江洪水的成因与减灾对策[Z]. 见: 许厚泽, 赵其国 (主编). 长江流域洪涝灾害与科技对策. 北京: 科学出版社: 32~36</div>
-  <div class="csl-entry">童世亨. 1926. 京兆直隶图[CM]. 上海: 商务印书馆</div>
-  <div class="csl-entry">肖希明, 石庆功, 刘奕. 2024. 民国图书馆学教育的社会贡献[C]. 见: 纪念北京大学图书馆学教育100周年研讨会论文集. 北京: 北京大学信息管理系: 134~147</div>
-  <div class="csl-entry">肖玲, 张雪, 王永. 2024. 数据要素的统计测算方法探究[Z]. PSSXiv</div>
-  <div class="csl-entry">胡健民. 2021. 东南极拉斯曼丘陵地区地质图[CM]. 北京: 科学出版社</div>
-  <div class="csl-entry">许振超. 2025. “好好干，当一个好工人”[EB/OL]. <a href="https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html">https://cpc.people.com.cn/n1/2025/0217/c443712-40419790.html</a> [2025-06-22]</div>
-  <div class="csl-entry">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社</div>
-  <div class="csl-entry">谭其骧. 1982. 中国历史地图集[CM]: 第2册. 北京: 地图出版社: 6</div>
-  <div class="csl-entry">贾东琴, 柯平. 2011. 面向数字素养的高校图书馆数字服务体系研究[C]. 见: 中国图书馆学会 (主编). 中国图书馆学会年会论文集: 2011年卷. 北京: 国家图书馆出版社: 45~52</div>
+  <div class="csl-entry">仉尚航. 2024. 开放世界中的实体基础模型[EB/OL]. <a href="https://www.ppthub.com.cn/view/19309">https://www.ppthub.com.cn/view/19309</a> [2025-01-02]</div>
   <div class="csl-entry">赵学功. 2001. 当代美国外交[M/OL]. 北京: 社会科学文献出版社</div>
-  <div class="csl-entry">邓一刚. 2008-01-16. 全智能节电器[P]. 中国发明专利, CN101106276A</div>
   <div class="csl-entry">郑涵, 于贵瑞, 朱先进, 等. 2018. 2000—2010年中国典型陆地生态系统实际蒸散量和水分利用效率数据[DS/OL]. Science Data Bank. <a href="https://cstr.cn/31253.11.sciencedb.610">https://cstr.cn/31253.11.sciencedb.610</a> [2025-02-14]</div>
-  <div class="csl-entry">金燕萍. 2020. 社交媒体时代的虚假信息研究[D/OL]. 温州: 温州大学: 16</div>
-  <div class="csl-entry">钱学森. 2001. 创建系统学[M]. 太原: 山西科学技术出版社: 序2-3</div>
-  <div class="csl-entry">阿扬. 2023. 谈谈记忆：与诺贝尔获奖得者埃里克·坎德尔的问答[Z]. 姜海伦译. 见: 《环球科学》杂志社 (主编). 认识记忆力：关于学习、思考与遗忘的脑科学. 北京: 机械工业出版社: 15~18</div>
-  <div class="csl-entry">陈建军. 2010. 从数字地球到智慧地球[J/OL]. 国土资源导刊, 7(10): 93</div>
-  <div class="csl-entry">陈志勇. 2011. 中国财税文化价值研究：“中国财税文化国际学术研讨会”论文集[M/OL]. 北京: 经济科学出版社</div>
-  <div class="csl-entry">陈晋镳, 张惠民, 朱士兴, 等. 1980. 蓟县震旦亚界的研究[Z]. 见: 中国地质科学院天津地质矿产研究所 (主编). 中国震旦亚界. 天津: 天津科学技术出版社: 56~114</div>
-  <div class="csl-entry">陈登原. 2000. 国史旧闻[M]: 卷 1. 北京: 中华书局: 29</div>
-  <div class="csl-entry">陈缮真. 2022-08-16. 探索微观世界的无穷奥秘（科技大观）[N/OL]. 人民日报, 17</div>
-  <div class="csl-entry">顾炎武. 1980. 昌平山水记；京东考古录[M]. 北京: 北京古籍出版社</div>
-  <div class="csl-entry">马克思. 2013. 政治经济学批判[Z]. 见: 马克思, 恩格斯. 马克思恩格斯全集: 卷 35. 第二版. 北京: 人民出版社: 302</div>
-  <div class="csl-entry">高等教育文献保障系统. 馆际互借与文献传递服务[EB/OL]. <a href="http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc">http://home.calis.edu.cn/pages/list.html?id=4101e184-7f64-4798-a5e1-8e37aa6994fc</a> [2025-06-21]</div>
-  <div class="csl-entry">黄土高原科学数据中心（西北农林科技大学水土保持研究所）. 2024. 青海省县域教育、卫生发展指标（2001—2022年）[DS/OL]. 国家地理资源科学数据中心-黄土高原分中心. <a href="https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558">https://loess.geodata.cn/data/datadetails.html?dataguid=58691800703558</a> [2025-07-10]</div>
+  <div class="csl-entry">中工武大设计研究有限公司. 2019. 阳新县标准地名图[CM]. 武汉: 武汉大学出版社</div>
+  <div class="csl-entry">中国互联网络信息中心. 2012. 第29次中国互联网络发展状况统计报告[R/OL]</div>
+  <div class="csl-entry">中国科学院文献情报中心. 中国科学院科技论文预发布平台[EB/OL]. <a href="https://chinaxiv.org/home.htm">https://chinaxiv.org/home.htm</a> [2025-03-06]</div>
+  <div class="csl-entry">中国社会科学院台湾史研究中心. 2012. 台湾光复六十五周年暨抗战史实学术研讨会论文集[M]. 北京: 九州出版社</div>
+  <div class="csl-entry">中国图书馆学会. 1957/1990. 图书馆学通讯[Z]. 1957/1990, 1957（1）—1990（4）. 北京: 北京图书馆</div>
+  <div class="csl-entry">中国信息通信研究院, 中国电信股份有限公司研究院, 中国移动通信研究院, 等. 2023. 电信业发展白皮书：2023：新时代高质量发展探索[R/OL]</div>
+  <div class="csl-entry">中国造纸学会. 2003. 中国造纸年鉴：2003[M/OL]. 北京: 中国轻工业出版社</div>
+  <div class="csl-entry">中华医学会湖北分会. 1984. 临床内科杂志[Z]. 1984, 1984，1（1）—. 武汉: 中华医学会湖北分会</div>
+  <div class="csl-entry">周壮, 李盛阳, 吴薇, 等. 2023. 天宫二号遥感图像自然景物分类数据集[DS/OL]. 国家基础学科公共科学数据中心. <a href="https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf">https://www.nbsdc.cn/general/dataLinks/CSTR:16666.11.nbsdc.tfpbwtqf</a> [2025-07-15]</div>
+  <div class="csl-entry">訾冬梅, 高秀静. 2006. 内蒙古自治区地图册[CM]. 新版. 北京: 中国地图出版社</div>
+  <div class="csl-entry">史国华, 樊金宇, 何益, et al. 2022-09-13. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. JP utility patent, JP2022539784A</div>
+  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社: 154</div>
   <div class="csl-entry">American Association for the Advancement of Science. 1883. Science[Z]. 1883, 1883，1（1）—. Washington, D.C.: American Association for the Advancement of Science</div>
   <div class="csl-entry">American Institute of Aeronautics and Astronautics (AIAA). Guide to lithium battery safety for space applications[Z]: AIAA G-136-2022</div>
   <div class="csl-entry">Anon. 1979. Public library quarterly[Z]. 1979, 1979，1（1）—. Philadelphia: Taylor &#38; Francis</div>
@@ -206,8 +208,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Yufin S A. 2000. Geoecology and computers: proceedings of the Third International Conference on Advances of Computer Methods in Geotechnical and Geoenvironmental Engineering, Moscow, Russia, 1-4 February 2000[M]. Rotterdam: A. A. Balkema</div>
   <div class="csl-entry">Zhong X, Q Yan, G Li. 2022. Long time series nighttime light dataset of China (2000-2020)[DS/OL]. Global Change Research Data Publishing &#38; Repository. <a href="http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1">http://www.geodoi.ac.cn/edoi.aspx?DOI=10.3974/geodb.2022.06.01.V1</a> [2024-11-25]</div>
   <div class="csl-entry">Zotero. [Zotero download][EB/OL]. <a href="https://www.zotero.org/download/">https://www.zotero.org/download/</a> [2024-04-08]</div>
-  <div class="csl-entry">史国华, 樊金宇, 何益, et al. 2022-09-13. 光コヒーレンス断層拡張現実に基づく手術顕微鏡撮像システム及び方法[P]. JP utility patent, JP2022539784A</div>
-  <div class="csl-entry">図書館用語辞典編集委員会. 2004. 最新図書館用語大辞典[M]. 東京: 柏書房株式会社: 154</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
@@ -217,8 +217,12 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">余林. 2000. 汉语语言产生中的语音表征与加工[D]. 北京师范大学</div>
+  <div class="csl-entry">拉普拉斯, Pierre-Simon. 1814. 概率哲学[M]. 张三, 李四译. 1951. 北京: 未名出版社</div>
+  <div class="csl-entry">李行健. 2004. 现代汉语规范辞典[M/OL]. 北京: 外语教学与研究出版社: 255</div>
+  <div class="csl-entry">邱颖文. 2009. 遗传与语言学习[D]. 上海: 华东师范大学</div>
+  <div class="csl-entry">王登峰, 崔红. 2004. 中国人“大七”人格结构的理论分析[Z]. 见: 王登峰, 侯玉波 (主编). 人格与社会心理学论丛: 卷 1. 北京: 北京大学出版社: 46~84</div>
   <div class="csl-entry">佚名. 1986. 现代汉语频率词典[M/OL]. 北京: 北京语言学院出版社</div>
+  <div class="csl-entry">余林. 2000. 汉语语言产生中的语音表征与加工[D]. 北京师范大学</div>
   <div class="csl-entry">张三. 2008a. 中国心理学的过去与未来[J]. 心理学报, 40: 210~215</div>
   <div class="csl-entry">张三. 2008b. 中国心理学的过去与未来[J]. 心理学报, 40(增刊): 210~215</div>
   <div class="csl-entry">张三. 2008c. 心理学史[M]. 北京: 未名出版社</div>
@@ -226,12 +230,8 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">张三, 李四. 2008a. 中国心理学的过去与未来[J]. 心理学报, 40: 210~215</div>
   <div class="csl-entry">张三, 李四. 2008b-08-08. 中国心理学与奥林匹克[N]. 新华日报, 2, 5~7</div>
   <div class="csl-entry">张三, 李四. 中国心理学的过去与未来[J]. 心理学报</div>
-  <div class="csl-entry">拉普拉斯, Pierre-Simon. 1814. 概率哲学[M]. 张三, 李四译. 1951. 北京: 未名出版社</div>
-  <div class="csl-entry">李行健. 2004. 现代汉语规范辞典[M/OL]. 北京: 外语教学与研究出版社: 255</div>
-  <div class="csl-entry">王登峰, 崔红. 2004. 中国人“大七”人格结构的理论分析[Z]. 见: 王登峰, 侯玉波 (主编). 人格与社会心理学论丛: 卷 1. 北京: 北京大学出版社: 46~84</div>
   <div class="csl-entry">赵一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来[J]. 心理学报, 40: 210~215</div>
   <div class="csl-entry">赵一一, 钱二, 孙三, 等. 2008. 中国心理学的过去与未来[J]. 心理学报, 40: 210~215</div>
-  <div class="csl-entry">邱颖文. 2009. 遗传与语言学习[D]. 上海: 华东师范大学</div>
   <div class="csl-entry">Auerbach J S. 1993. The origins of narcissism and narcissistic personality disorder: A theoretical and empirical reformulation[Z]. In: Bornstein M F (editor). Handbook of child psychology: Vol. 4. Socialization, personality, and social development. 4th ed. Washington, DC, US: Wiley: 43~110</div>
   <div class="csl-entry">Australian Bureau of Statistics. 1991. Estimated resident population by age and sex in statistical local areas, New South Wales, June 1990[R]: 3209.1. Canberra, Australian Capital Territory: Author</div>
   <div class="csl-entry">Bergmann P G. 1993. Relativity[Z]. In: The new encyclopedia Britannica: Vol. 26. New York: Encyclopedia Britannica: 501~508</div>
@@ -259,10 +259,33 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
+  <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局</div>
+  <div class="csl-entry">杜威·佛克马. 1999. 走向新世界主义[Z]. 见: 王宁, 薛晓源 (主编). 全球化与后殖民批评. 北京: 中央编译出版社: 247~266</div>
+  <div class="csl-entry">方明东. 2000. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系</div>
+  <div class="csl-entry">费成康. 1999. 葡萄牙人如何进入澳门问题辨正[J/OL]. 社会科学(9): 63~67</div>
+  <div class="csl-entry">管志道. 1997. 答屠仪部赤水丈书[Z]. 见: 续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社</div>
+  <div class="csl-entry">何龄修. 1998. 读顾诚〈南明史〉[J]. 中国史研究(3): 167~173</div>
+  <div class="csl-entry">黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[Z]. 见: 中国大历史. 北京: 三联书店</div>
+  <div class="csl-entry">黄义豪. 1997. 评黄龟年四劾秦桧[J]. 福建论坛(3): 26~27</div>
+  <div class="csl-entry">蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社</div>
+  <div class="csl-entry">金冲及. 1989. 周恩来传[M]. 北京: 人民出版社、中央文献出版社</div>
+  <div class="csl-entry">李眉. 1986-08-22. 李劼人轶事[N]. 四川工人日报, 2</div>
+  <div class="csl-entry">李鹏程. 1994. 当代文化哲学沉思[M]. 北京: 人民出版社</div>
+  <div class="csl-entry">楼适夷. 1998. 读家书，想傅雷（代序）[Z]. 见: 傅敏 (主编). 傅雷家书. 增补本. 北京: 三联书店</div>
+  <div class="csl-entry">鲁迅. 1981. 中国小说的历史的变迁[Z]. 见: 鲁迅全集: 第9册. 北京: 人民文学出版社</div>
+  <div class="csl-entry">毛祥麟. 1985. 墨余录[Z]. 上海: 上海古籍出版社</div>
+  <div class="csl-entry">倪素香. 2002. 德育学科的比较研究与理论探索[J]. 武汉大学学报(4): 512~513</div>
   <div class="csl-entry">任东来. 2000. 对国际体制和国际制度的理解和翻译[C]. 天津</div>
   <div class="csl-entry">任继愈. 1983. 中国哲学发展史（先秦卷）[M]. 北京: 人民出版社</div>
   <div class="csl-entry">伤心人（麦孟华）. 光绪二十六年十一月二十一日. 说奴隶[N]. 清议报, 第1页</div>
-  <div class="csl-entry">何龄修. 1998. 读顾诚〈南明史〉[J]. 中国史研究(3): 167~173</div>
+  <div class="csl-entry">实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦译. 香港: 香港中文大学出版社</div>
+  <div class="csl-entry">唐振常. 1997. 师承与变法[Z]. 见: 识史集. 上海: 上海古籍出版社</div>
+  <div class="csl-entry">汪疑今. 1936. 江苏的小农及其副业[J]. 中国经济, 4(6)</div>
+  <div class="csl-entry">王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> [1998-10-04]</div>
+  <div class="csl-entry">魏丽英. 1990. 论近代西北人口波动的若干主要原因[J/OL]. 社会科学(6): 68~73, 86</div>
+  <div class="csl-entry">扬之水. 两宋茶诗与茶事[EB/OL]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> [2007-09-13]</div>
+  <div class="csl-entry">杨钟羲. 1991. 雪桥诗话续集[Z]: 卷 5. 影印本. 沈阳: 辽沈书社</div>
+  <div class="csl-entry">姚际恒. 古今伪书考[Z]: 卷 3. 光绪三年苏州文学山房活字本</div>
   <div class="csl-entry">佚名. 1910-09-03. 四川会议厅暂行章程[N]. 广益丛报, 第1—2页</div>
   <div class="csl-entry">佚名. 1917. 傅良佐致国务院电[Z]: 北洋档案 1011—5961. 中国第二历史档案馆</div>
   <div class="csl-entry">佚名. 1925-08-14. 上海各路商界总联合会致外交部电[N]. 民国日报, 4</div>
@@ -278,30 +301,7 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名. 民国. 上海县续志[Z]: 卷 1 疆域</div>
   <div class="csl-entry">佚名. 万历. 广东通志[Z]. 见: 稀见中国地方志汇刊: 卷 15. 影印本. 北京: 中国书店</div>
   <div class="csl-entry">佚名. 光绪二十四年十二月上. 清德宗实录[Z]: 卷 435. 影印本. 1987. 北京: 中华书局</div>
-  <div class="csl-entry">倪素香. 2002. 德育学科的比较研究与理论探索[J]. 武汉大学学报(4): 512~513</div>
-  <div class="csl-entry">唐振常. 1997. 师承与变法[Z]. 见: 识史集. 上海: 上海古籍出版社</div>
-  <div class="csl-entry">姚际恒. 古今伪书考[Z]: 卷 3. 光绪三年苏州文学山房活字本</div>
-  <div class="csl-entry">实藤惠秀. 1982. 中国人留学日本史[M]. 谭汝谦, 林启彦译. 香港: 香港中文大学出版社</div>
-  <div class="csl-entry">扬之水. 两宋茶诗与茶事[EB/OL]. <a href="http://www.literature.org.cn/Article.asp?ID=199">http://www.literature.org.cn/Article.asp?ID=199</a> [2007-09-13]</div>
-  <div class="csl-entry">方明东. 2000. 罗隆基政治思想研究（1913—1949）[D]. 北京师范大学历史系</div>
-  <div class="csl-entry">李眉. 1986-08-22. 李劼人轶事[N]. 四川工人日报, 2</div>
-  <div class="csl-entry">李鹏程. 1994. 当代文化哲学沉思[M]. 北京: 人民出版社</div>
-  <div class="csl-entry">杜威·佛克马. 1999. 走向新世界主义[Z]. 见: 王宁, 薛晓源 (主编). 全球化与后殖民批评. 北京: 中央编译出版社: 247~266</div>
-  <div class="csl-entry">杨钟羲. 1991. 雪桥诗话续集[Z]: 卷 5. 影印本. 沈阳: 辽沈书社</div>
-  <div class="csl-entry">楼适夷. 1998. 读家书，想傅雷（代序）[Z]. 见: 傅敏 (主编). 傅雷家书. 增补本. 北京: 三联书店</div>
-  <div class="csl-entry">毛祥麟. 1985. 墨余录[Z]. 上海: 上海古籍出版社</div>
-  <div class="csl-entry">汪疑今. 1936. 江苏的小农及其副业[J]. 中国经济, 4(6)</div>
-  <div class="csl-entry">狄葆贤. 平等阁笔记[M]. 上海: 有正书局</div>
-  <div class="csl-entry">王明亮. 1998. 关于中国学术期刊标准化数据库系统工程的进展[EB/OL]. <a href="http://www.cajcd.cn/pub/wml.txt/980810-2.html">http://www.cajcd.cn/pub/wml.txt/980810-2.html</a> [1998-10-04]</div>
-  <div class="csl-entry">管志道. 1997. 答屠仪部赤水丈书[Z]. 见: 续问辨牍: 卷 2. 影印本. 济南: 齐鲁书社</div>
-  <div class="csl-entry">蒋大兴. 2001. 公司法的展开与评判——方法·判例·制度[M]. 北京: 法律出版社</div>
-  <div class="csl-entry">费成康. 1999. 葡萄牙人如何进入澳门问题辨正[J/OL]. 社会科学(9): 63~67</div>
   <div class="csl-entry">赵景深. 1948. 文坛忆旧[M]. 上海: 北新书局</div>
-  <div class="csl-entry">金冲及. 1989. 周恩来传[M]. 北京: 人民出版社、中央文献出版社</div>
-  <div class="csl-entry">魏丽英. 1990. 论近代西北人口波动的若干主要原因[J/OL]. 社会科学(6): 68~73, 86</div>
-  <div class="csl-entry">鲁迅. 1981. 中国小说的历史的变迁[Z]. 见: 鲁迅全集: 第9册. 北京: 人民文学出版社</div>
-  <div class="csl-entry">黄义豪. 1997. 评黄龟年四劾秦桧[J]. 福建论坛(3): 26~27</div>
-  <div class="csl-entry">黄仁宇. 1997. 为什么称为“中国大历史”？——中文版自序[Z]. 见: 中国大历史. 北京: 三联书店</div>
   <div class="csl-entry">Anon. 1969. Nixon to Kissinger[Z]: Box 1032, NSC Files, Nixon Presidential Material Project (NPMP). National Archives II, College Park, MD</div>
   <div class="csl-entry">Brooks P. 2000. Troubling confessions: Speaking guilt in law and literature[M]. Chicago: University of Chicago Press</div>
   <div class="csl-entry">Chamberlain H B. 1993. On the search for civil society in China[J/OL]. <i>Modern China</i>, 19(2): 199~215</div>
@@ -316,8 +316,30 @@ Qian et al. (2009b)<br>
 <!-- PLACEHOLDER FOR WEBSITE - BEFORE RESULT -->
 
 <div class="csl-bib-body maxoffset-0 second-field-align-false hangingindent-true">
-  <div class="csl-entry">中国共产党中央委员会. 2014. 中共中央关于全面推进依法治国若干重大问题的决定[Z]</div>
+  <div class="csl-entry">崔国斌. 2006. 知识产权法官造法批判[J/OL]. 中国法学(1): 144~164</div>
+  <div class="csl-entry">[德]莱纳·沃尔夫. 2012. 风险法的风险[Z]. 陈霄译. 见: 刘刚 (主编). 风险规制：德国的理论与实践. 法律出版社</div>
+  <div class="csl-entry">邓小平. 1994. 精简机构是一场革命[Z]. 见: 邓小平文选: 卷 2. 第二版. 人民出版社</div>
+  <div class="csl-entry">高鸿钧, 程汉大. 2013. 英美法原论[M]. 北京大学出版社</div>
+  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 2015. 信息与文献 参考文献著录规则[Z]: GB/T 7714—2015</div>
+  <div class="csl-entry">国务院. 2007a. 国务院关于在全国建立农村最低生活保障制度的通知[Z]: 国发〔2007〕19号</div>
+  <div class="csl-entry">国务院. 2007b. 国务院关于在全国建立农村最低生活保障制度的通知[Z]: 国发〔2007〕19号</div>
+  <div class="csl-entry">国务院. 2018. 国务院关于印发打赢蓝天保卫战三年行动计划的通知[Z]: 国发〔2018〕22号</div>
   <div class="csl-entry">何海波. 2000-05-21. 判决书上网[N]. 法制日报, 2</div>
+  <div class="csl-entry">季卫东. 1993. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学(1): 83~103</div>
+  <div class="csl-entry">李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学</div>
+  <div class="csl-entry">罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J/OL]. 中国法学(1): 52~59</div>
+  <div class="csl-entry">[美]富勒. 2005. 法律的道德性[M]. 郑戈译. 商务印书馆</div>
+  <div class="csl-entry">欧中坦. 1994. 千方百计上京城：清朝的京控[Z]. 谢鹏程译. 见: 高道蕴, 高鸿钧, 贺卫方 (主编). 美国学者论中国法律传统. 中国政法大学出版社</div>
+  <div class="csl-entry">瞿同祖. 2010. 中国法律与中国社会[M/OL]. 商务印书馆</div>
+  <div class="csl-entry">全国人大常委会. 1991. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[Z]</div>
+  <div class="csl-entry">全国人大常委会. 2005. 中华人民共和国公司法[Z]. 2005年修订</div>
+  <div class="csl-entry">全国人大常委会. 2013. 中华人民共和国公司法[Z]. 2013年修正</div>
+  <div class="csl-entry">全国人大常委会. 2017. 中华人民共和国刑法修正案（十）[Z]: 中华人民共和国主席令第80号</div>
+  <div class="csl-entry">汪波. 2004. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB/OL]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a> [2022-05-03]</div>
+  <div class="csl-entry">王保树. 1994. 股份有限公司机关构造中的董事和董事会[Z]. 见: 梁慧星 (主编). 民商法论丛: 卷 1. 法律出版社: 110</div>
+  <div class="csl-entry">王名扬. 2007. 美国行政法[M]. 北京大学出版社</div>
+  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 等. 2004. 近代中国宪政历程[M/OL]. 中国政法大学出版社</div>
+  <div class="csl-entry">信春鹰. 2013. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]</div>
   <div class="csl-entry">佚名. 2013. 荣宝英诉王阳、永诚财产保险股份有限公司江阴支公司机动车交通事故责任纠纷案[Z]: （2013）锡民终字第497号. 见: 最高人民法院公报</div>
   <div class="csl-entry">佚名. 2015. 陆红霞诉南通市发改委政府信息公开案[Z]. 见: 最高人民法院公报</div>
   <div class="csl-entry">佚名. 2017. 榆林市凯奇莱能源投资有限公司诉陕西省地质矿产勘查开发局西安地质矿产勘查开发院合作勘查合同纠纷上诉案[Z]: （2011）民一终字第 81 号</div>
@@ -326,35 +348,17 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">佚名. 民法总则[Z]</div>
   <div class="csl-entry">佚名. 包郑照诉苍南县人民政府强制拆除房屋案[Z]: （1988）浙法民上字 7 号</div>
   <div class="csl-entry">佚名. 温家宝主持国务院会议 研究房地产业健康发展措施[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a></div>
-  <div class="csl-entry">信春鹰. 2013. 关于《中华人民共和国行政诉讼法修正案（草案）》的说明[R/OL]</div>
-  <div class="csl-entry">全国人大常委会. 1991. 全国人民代表大会常务委员会关于严禁卖淫嫖娼的决定[Z]</div>
-  <div class="csl-entry">全国人大常委会. 2005. 中华人民共和国公司法[Z]. 2005年修订</div>
-  <div class="csl-entry">全国人大常委会. 2013. 中华人民共和国公司法[Z]. 2013年修正</div>
-  <div class="csl-entry">全国人大常委会. 2017. 中华人民共和国刑法修正案（十）[Z]: 中华人民共和国主席令第80号</div>
+  <div class="csl-entry">应松年, 马怀德. 2006. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社</div>
+  <div class="csl-entry">[英]劳特派特. 1971. 奥本海国际法[M]: 上卷第一分册. 第八版. 王铁崖, 陈体强译. 商务印书馆</div>
+  <div class="csl-entry">张新宝. 2016. 侵权责任法[M]. 第四版. 中国人民大学出版社</div>
+  <div class="csl-entry">赵耀彤. 2018. 一名基层法官眼里好律师的样子[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> [2022-05-03]</div>
+  <div class="csl-entry">中国共产党中央委员会. 2014. 中共中央关于全面推进依法治国若干重大问题的决定[Z]</div>
   <div class="csl-entry">最高人民法院. 2018. 最高人民法院关于适用〈中华人民共和国行政诉讼法〉的解释[Z]: 法释〔2018〕1号</div>
   <div class="csl-entry">最高人民法院, 最高人民检察院. 1993. 最高人民法院、最高人民检察院关于依法严惩破坏计划生育犯罪活动的通知[Z]: 法发〔1993〕36号</div>
-  <div class="csl-entry">国务院. 2007a. 国务院关于在全国建立农村最低生活保障制度的通知[Z]: 国发〔2007〕19号</div>
-  <div class="csl-entry">国务院. 2007b. 国务院关于在全国建立农村最低生活保障制度的通知[Z]: 国发〔2007〕19号</div>
-  <div class="csl-entry">国务院. 2018. 国务院关于印发打赢蓝天保卫战三年行动计划的通知[Z]: 国发〔2018〕22号</div>
-  <div class="csl-entry">国家质量监督检验检疫总局, 中国国家标准化管理委员会. 2015. 信息与文献 参考文献著录规则[Z]: GB/T 7714—2015</div>
-  <div class="csl-entry">夏新华, 胡旭晟, 刘鄂, 等. 2004. 近代中国宪政历程[M/OL]. 中国政法大学出版社</div>
-  <div class="csl-entry">季卫东. 1993. 法律程序的意义：对中国法制建设的另一种思考[J]. 中国社会科学(1): 83~103</div>
-  <div class="csl-entry">崔国斌. 2006. 知识产权法官造法批判[J/OL]. 中国法学(1): 144~164</div>
-  <div class="csl-entry">应松年, 马怀德. 2006. 当代中国行政法的源流：王名扬教授九十华诞贺寿文集[M]. 中国法制出版社</div>
-  <div class="csl-entry">张新宝. 2016. 侵权责任法[M]. 第四版. 中国人民大学出版社</div>
-  <div class="csl-entry">[德]莱纳·沃尔夫. 2012. 风险法的风险[Z]. 陈霄译. 见: 刘刚 (主编). 风险规制：德国的理论与实践. 法律出版社</div>
-  <div class="csl-entry">李松锋. 2015. 游走在上帝与凯撒之间：美国宪法第一修正案中的政教关系研究[D]. 中国政法大学</div>
-  <div class="csl-entry">欧中坦. 1994. 千方百计上京城：清朝的京控[Z]. 谢鹏程译. 见: 高道蕴, 高鸿钧, 贺卫方 (主编). 美国学者论中国法律传统. 中国政法大学出版社</div>
-  <div class="csl-entry">汪波. 2004. 哈尔滨市政法机关正对“宝马案”认真调查复查[EB/OL]. <a href="http://www.people.com.cn/GB/shehui/1062/2289764.html">http://www.people.com.cn/GB/shehui/1062/2289764.html</a> [2022-05-03]</div>
-  <div class="csl-entry">王保树. 1994. 股份有限公司机关构造中的董事和董事会[Z]. 见: 梁慧星 (主编). 民商法论丛: 卷 1. 法律出版社: 110</div>
-  <div class="csl-entry">王名扬. 2007. 美国行政法[M]. 北京大学出版社</div>
-  <div class="csl-entry">瞿同祖. 2010. 中国法律与中国社会[M/OL]. 商务印书馆</div>
-  <div class="csl-entry">罗豪才, 袁曙宏, 李文栋. 1993. 现代行政法的理论基础——论行政机关与相对一方的权利义务平衡[J/OL]. 中国法学(1): 52~59</div>
-  <div class="csl-entry">[美]富勒. 2005. 法律的道德性[M]. 郑戈译. 商务印书馆</div>
-  <div class="csl-entry">[英]劳特派特. 1971. 奥本海国际法[M]: 上卷第一分册. 第八版. 王铁崖, 陈体强译. 商务印书馆</div>
-  <div class="csl-entry">赵耀彤. 2018. 一名基层法官眼里好律师的样子[EB/OL]. <a href="http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm">http://news.xinhuanet.com/newscenter/2006-05/17/content_4562304.htm</a> [2022-05-03]</div>
-  <div class="csl-entry">邓小平. 1994. 精简机构是一场革命[Z]. 见: 邓小平文选: 卷 2. 第二版. 人民出版社</div>
-  <div class="csl-entry">高鸿钧, 程汉大. 2013. 英美法原论[M]. 北京大学出版社</div>
+  <div class="csl-entry">我妻栄. 1971. 新訂担保物権法[M]. 有斐閣</div>
+  <div class="csl-entry">我妻栄, 有泉亨. 1950. 民法総則物権法[M]. 日本評論社</div>
+  <div class="csl-entry">於保不二雄. 1954. 付加物及び従物と抵当権[J/OL]. 民商法雑誌, 29(5): 1</div>
+  <div class="csl-entry">佐藤英明. 2014. 一時所得の要件に関する覚書[Z]. In: 金子宏, 中里実, J.マーク・ラムザイヤー (editors). 租税法と市場. 有斐閣: 220</div>
   <div class="csl-entry">Alford W. 1995. To steal a book is an elegant offense: Intellectual property law in Chinese civilization[M]. Stanford University Press</div>
   <div class="csl-entry">Anon. 1919. 信玄公旗掛松事件[Z]. In: 大審院民事判決録: Vol. 25. 356</div>
   <div class="csl-entry">Anon. 1966. Department of Transportation Act[Z]: 89-670. In: Stat.: Vol. 80. 931, 944~947</div>
@@ -398,10 +402,6 @@ Qian et al. (2009b)<br>
   <div class="csl-entry">Schwab M. 2013. [Z]. In: Münchener Kommentar BGB: Vol. 5. 6th ed.</div>
   <div class="csl-entry">Vogel B. 2017. Rechtsgüterschutz und Normgeltung[J/OL]. <i>Zeitschrift für die gesamte Strafrechtswissenschaft</i>, 129(3): 629~649</div>
   <div class="csl-entry">Würdinger M. 2012. Über Radarwarngeräte und die Zukunft des Europäischen Privatrechts[J/OL]. <i>Juristische Schulung</i>(3): 234~240</div>
-  <div class="csl-entry">佐藤英明. 2014. 一時所得の要件に関する覚書[Z]. In: 金子宏, 中里実, J.マーク・ラムザイヤー (editors). 租税法と市場. 有斐閣: 220</div>
-  <div class="csl-entry">我妻栄. 1971. 新訂担保物権法[M]. 有斐閣</div>
-  <div class="csl-entry">我妻栄, 有泉亨. 1950. 民法総則物権法[M]. 日本評論社</div>
-  <div class="csl-entry">於保不二雄. 1954. 付加物及び従物と抵当権[J/OL]. 民商法雑誌, 29(5): 1</div>
 </div>
 
 <!-- PLACEHOLDER FOR WEBSITE - AFTER RESULT -->
